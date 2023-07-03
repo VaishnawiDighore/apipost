@@ -1,0 +1,5 @@
+export const USER_REQUEST = 'USER_REQUEST'
+export const GET_USERS = 'GET_USERS'
+export const CREATE_USERS = 'CREATE_USERS'
+export const USERS_FAILD = 'USERS_FAILD'
+export const CLEAR_ERROR = 'CLEAR_ERROR'
